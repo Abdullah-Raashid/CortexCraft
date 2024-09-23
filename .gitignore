@@ -1,4 +1,5 @@
 openwebtext.tar.xz
+*.xz
 openwebtext
 .ipynb_checkpoints
 model-01.pkl
